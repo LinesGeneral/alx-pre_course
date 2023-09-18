@@ -1,1 +1,1 @@
-Readme for this directory
+Readme for alx pre-course training
